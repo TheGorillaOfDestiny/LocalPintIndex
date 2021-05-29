@@ -1,0 +1,11 @@
+
+<h1>Local Pint Index</h1>
+<div>
+<label for="pints">Choose a pint:</label>
+
+<select name="pints" id="pints">
+  <option value="test">Test</option>
+  <option value="test2">Test2</option>
+</select>
+</div>
+<iframe src="/get_map" width = 1000 height = 1000></iframe>
